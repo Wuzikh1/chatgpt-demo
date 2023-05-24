@@ -37,7 +37,7 @@ export default defineConfig({
         manifest: {
           name: '灵灵无情的做作业机器',
           short_name: '灵灵无情的做作业机器',
-          description: 'A demo repo based on OpenAI API',
+          description: '多拉屎少吃饭',
           theme_color: '#212129',
           background_color: '#ffffff',
           icons: [
